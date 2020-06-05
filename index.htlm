@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>
+      quickşahadet
+    </title>
+    <button>Kelime İ Şehadet et</button>
+    <script>
+      document.querySelector("button").addEventListener("click", () => {
+        alert("Eşhedü en la ilahe illallah ve eşhedü enne Muhammeden abdühü ve resulühü");
+      });
+    </script>
+  </head>
+</html>
