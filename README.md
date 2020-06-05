@@ -1,2 +1,2 @@
-# quicksahadet.github.io
+# http://quicksahadet.github.io
 Hızlı Kolay Opensource
